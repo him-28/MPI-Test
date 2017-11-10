@@ -1,0 +1,5 @@
+
+module purge
+#module load intel/16.0.2
+#module load MPICH2
+module load openmpi
